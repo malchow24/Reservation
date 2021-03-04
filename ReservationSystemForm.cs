@@ -1,6 +1,5 @@
 // Payroll.cs
 //
-// Huimin Zhao
 // 
 // Payroll System Main Form.
 
